@@ -72,7 +72,7 @@ namespace NumberClassifier
 
                 //user is prompted to continue or quit
 
-                Console.WriteLine("Continue? (y/n)");
+                Console.WriteLine($"{uName}, would you like to continue? (y/n)");
                 cont = Console.ReadLine();
 
                 // user input for cont is checked

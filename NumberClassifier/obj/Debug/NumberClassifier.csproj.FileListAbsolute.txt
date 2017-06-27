@@ -3,3 +3,4 @@ C:\Users\slage\Desktop\C# Bootcamp\numberClassifier\NumberClassifier\NumberClass
 C:\Users\slage\Desktop\C# Bootcamp\numberClassifier\NumberClassifier\NumberClassifier\bin\Debug\NumberClassifier.pdb
 C:\Users\slage\Desktop\C# Bootcamp\numberClassifier\NumberClassifier\NumberClassifier\obj\Debug\NumberClassifier.exe
 C:\Users\slage\Desktop\C# Bootcamp\numberClassifier\NumberClassifier\NumberClassifier\obj\Debug\NumberClassifier.pdb
+C:\Users\slage\Desktop\C# Bootcamp\numberClassifier\NumberClassifier\NumberClassifier\obj\Debug\NumberClassifier.csprojResolveAssemblyReference.cache
