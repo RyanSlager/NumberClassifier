@@ -12,12 +12,13 @@ namespace NumberClassifier
         {
             string cont = "y";
 
+            Console.WriteLine("Hello and welcome to our number classifier! What is your name? ");
+            string uName = Console.ReadLine();
+
             while (cont == "y")
             {
                 // user is prompted for their name and an initial integer
 
-                Console.WriteLine("Hello and welcome to our number classifier! What is your name? ");
-                string uName = Console.ReadLine();
                 Console.WriteLine($"{uName}, please enter an integer between 1 and 100");
                 string uNum = Console.ReadLine();
                 int uInt;
@@ -78,7 +79,7 @@ namespace NumberClassifier
 
                 while (cont != "y" && cont != "n")
                 {
-                    Console.WriteLine("Please enter y to continue or n to quit.");
+                    Console.WriteLine($"{uName}, please enter y to continue or n to quit.");
                     cont = Console.ReadLine();
                 }
             }
