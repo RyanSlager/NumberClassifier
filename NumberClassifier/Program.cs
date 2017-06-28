@@ -38,16 +38,7 @@ namespace NumberClassifier
                 {
                     // this if/else checks what range the number is in
 
-                    if (uInt >= 60)
-                    {
-                        Console.WriteLine($"{uName}, {uInt} is odd.");
-                    }
-
-                    else
-                    {
-                        Console.WriteLine($"{uName}, {uInt} is odd.");
-                    }
-
+                   Console.WriteLine($"{uName}, {uInt} is odd.");
                 }
                 
                 // the else if handles all even numbers
